@@ -1,0 +1,35 @@
+# Node.js dependencies
+api/node_modules/
+web/node_modules/
+
+# Build outputs
+web/build/
+web/dist/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv and secret files
+.env
+secrets/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Docker artifacts
+**/.docker
+**/.env
+**/docker-compose.override.yml
+
+# VSCode and IDEs
+.vscode/
+.idea/
+
+# Others
+*.swp
+*.swo
