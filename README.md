@@ -116,6 +116,11 @@ docker compose down -v
 
 ---
 
+## 📚 Project Source
+
+This project is part of the [Multi-Service Docker Project on roadmap.sh](https://roadmap.sh/projects/multiservice-docker).
+It provides a real-world scenario for practicing advanced Docker features such as custom images, secrets, volumes, and reverse proxies.
+
 ## 📄 License
 
 MIT License — feel free to use, share, and improve.
