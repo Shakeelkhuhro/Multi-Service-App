@@ -58,8 +58,6 @@ cd multi-service-app
 ---
 
 ### 2. Set up secrets
-
-```bash
 Create the MongoDB root password file:
 
 ```bash
