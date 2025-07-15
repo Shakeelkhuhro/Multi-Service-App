@@ -58,6 +58,7 @@ cd multi-service-app
 ---
 
 ### 2. Set up secrets
+
 Create the MongoDB root password file:
 
 ```bash
@@ -96,8 +97,8 @@ Each service includes a health check to ensure stability and reliability in orch
 
 All services use `json-file` logging with rotation:
 
-* `max-size: 10m`
-* `max-file: 3`
+- `max-size: 10m`
+- `max-file: 3`
 
 Logs can be viewed with:
 
@@ -120,3 +121,7 @@ docker compose down -v
 MIT License — feel free to use, share, and improve.
 
 ---
+
+## Shakeel Khuhro
+
+## [GitHub](https://github.com/shakeelkhuhro)
