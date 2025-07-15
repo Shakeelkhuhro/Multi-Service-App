@@ -1,4 +1,3 @@
-```markdown
 # 🐳 Multi-Service Dockerized Application
 
 A full-stack, production-ready Dockerized application using:
